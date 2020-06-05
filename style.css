@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite !important;
+}
+
+/* blog page css */
+.card-img-top {
+    width: auto !important;
+    height: auto !important;
+} 
+
+
+
+/* Blog page css */
+
+
+/* aboout page css */
+.logo1 {
+    padding-left: 4px;
+    width: 40px;
+    height: 40px;
+}
+.logoflex {
+    display: flex;
+}
+.logoh2 {
+    padding-left: 38px;
+}
+
+/*a about page css */
